@@ -1,24 +1,34 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
+import * as CafData from './CafData.json';
+import Menu from './Menu';
 
-function App() {
+const App = () => {
+  const dayparts = CafData[0].days[0].cafes[261].dayparts[0]
+  const breakfast = dayparts[0]
+  const lunch = dayparts[1]
+  const dinner = dayparts[2]
+
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <Menu
+        label={breakfast.label}
+        starttime={breakfast.starttime}
+        endtime={breakfast.endtime}
+        stations={breakfast.stations}
+      />
+      <Menu
+        label={lunch.label}
+        starttime={lunch.starttime}
+        endtime={lunch.endtime}
+        stations={lunch.stations}
+      />
+      <Menu
+        label={dinner.label}
+        starttime={dinner.starttime}
+        endtime={dinner.endtime}
+        stations={dinner.stations}
+      />
     </div>
   );
 }
