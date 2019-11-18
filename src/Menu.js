@@ -7,8 +7,8 @@ const Menu = (props) => {
         <div>
             <MenuHeader
                 label={props.label}
-                starttime={props.starttime}
-                endtime={props.endtime}
+                // starttime={props.starttime}
+                // endtime={props.endtime}
             />
             <Stations
                 stations={props.stations}

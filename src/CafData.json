@@ -490,6 +490,7 @@
                                             "items": [
                                                 "14145269",
                                                 "14183179",
+                                                "14192462",
                                                 "5295730",
                                                 "5295731",
                                                 "12944334",
@@ -18659,13 +18660,13 @@
                 "is_rotating": "0",
                 "zero_entree": "0",
                 "cor_icon": {
-                    "1": "Vegetarian",
+                    "4": "Vegan",
                     "9": "Made without Gluten-Containing Ingredients"
                 },
                 "ordered_cor_icon": {
-                    "0001-0001": {
-                        "id": "1",
-                        "label": "Vegetarian"
+                    "0002-0004": {
+                        "id": "4",
+                        "label": "Vegan"
                     },
                     "0003-0009": {
                         "id": "9",
@@ -20368,6 +20369,46 @@
                 "options": [],
                 "station_id": "1121",
                 "station": "<strong>@bowls</strong>",
+                "nutrition_details": {},
+                "ingredients": "",
+                "nutrition_link": "",
+                "sub_station_id": "",
+                "sub_station": "",
+                "sub_station_order": "",
+                "monotony": {}
+            },
+            "14192462": {
+                "id": "14192462",
+                "label": "cheesy pretzel sauce",
+                "description": "",
+                "raw_cooked": "0",
+                "is_rotating": "0",
+                "zero_entree": "0",
+                "cor_icon": {
+                    "1": "Vegetarian"
+                },
+                "ordered_cor_icon": {
+                    "0001-0001": {
+                        "id": "1",
+                        "label": "Vegetarian"
+                    }
+                },
+                "nextepid": "0",
+                "price": "",
+                "sizes": [],
+                "nutrition": {
+                    "kcal": "",
+                    "well_being": "",
+                    "well_being_image": ""
+                },
+                "special": 1,
+                "tier3": 0,
+                "tier": 1,
+                "rating": "",
+                "connector": "",
+                "options": [],
+                "station_id": "1317",
+                "station": "<strong>@pizza</strong>",
                 "nutrition_details": {},
                 "ingredients": "",
                 "nutrition_link": "",
