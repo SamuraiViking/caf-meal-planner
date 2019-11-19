@@ -3,12 +3,12 @@ import * as CafData from './cafData.json'
 
 
 const Item = (props) => {
-    const vegiterian = '1' in props.type
-    const vegan = '4' in props.type
+    const vegiterian = '1' in props.diet
+    const vegan = '4' in props.diet
+    const glutenFree = '9' in props.diet
     return (
         <div>
             <span>{props.label}</span>
-            <span className="icon">{props.vegan}</span>
             {
                 vegiterian ?
                 <img src="https://legacy.cafebonappetit.com/assets/cor_icons/menu-item-type-c9d18b.png?v=1528869517" alt="vegitarian"/>
@@ -21,20 +21,34 @@ const Item = (props) => {
                 :
                 null
             }
+            {
+                glutenFree ?
+                <img src="https://legacy.cafebonappetit.com/assets/cor_icons/menu-item-type-ce9d00.png?v=1528869625" alt="vegan" />
+                :
+                null
+            }
+            <br/>
+            <span>{props.description}</span>
             <span className="icon">{props.vegiterian}</span>
         </div>
     )
+}
+
+const filterItems = (item, tier) => {
+    return Number(item.tier) === 1 
 }
 
 const Items = (props) => {
     let items = []
     props.itemIDs.forEach(function(itemID) {
         let item = CafData[0].items[itemID];
-        if(item.tier === 1) {
+        if(filterItems(item, 1)) {
             items.push(
-                <Item 
+                <Item
+                    key={itemID}
                     label={item.label}
-                    type={item.cor_icon}
+                    diet={item.cor_icon}
+                    description={item.description}
                 />
             )
         }

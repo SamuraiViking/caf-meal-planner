@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import * as CafData from './CafData.json';
+import * as CafData from './cafData.json';
 import Menu from './Menu';
 
 const App = () => {
