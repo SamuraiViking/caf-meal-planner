@@ -18,9 +18,9 @@ const Station = (props) => {
 const Stations = (props) => {
     return (
         props.stations ? 
-        props.stations.map((station) => (
+        props.stations.map((station, i) => (
             <Station 
-                key={station.id}
+                key={i}
                 label={station.label}
                 itemIDs={station.items}
             />
