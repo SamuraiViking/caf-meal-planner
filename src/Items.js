@@ -13,7 +13,7 @@ const Item = (props) => {
                 </div>
                 <div className="right">
                     <Icons icons={props.icons}/>
-                    <Button size="sm">Eat!</Button>
+                    {/* <Button size="sm">Eat!</Button> */}
                 </div>
             </div>
             <div className="description">
@@ -30,13 +30,12 @@ const unfilteredItem = (item, filters) => {
 const Items = (props) => {
     const [showMoreItems, setShowMoreItems] = useState(false)
     const [btnText, setBtnText] = useState("show more")
+    let filters = { tier: 1 }
     let items = []
     let moreItems = []
+
     props.itemIDs.forEach((itemID, i) => {
         let item = CafData[0].items[itemID];
-        let filters = {
-            tier: 1,
-        }
         if(unfilteredItem(item, filters)) {
             let itemElem = (
                 <Item
@@ -53,17 +52,31 @@ const Items = (props) => {
                 moreItems.push(itemElem)
         }
     })
+
     const handleClick = () => {
         setShowMoreItems(!showMoreItems)
         let newBtnText = ""
         newBtnText = btnText === "show more" ? "show less" : "show more"
         setBtnText(newBtnText)
     }
+
+    const ToggleBtn = (props) => {
+        let btn = !props.hasMoreItems ?
+            null
+            :
+            <Button variant="link" className="toggle-btn" onClick={handleClick}>{btnText}</Button>
+        return btn
+    }
+
+    const MoreItems = (props) => {
+        return props.showMoreItems ? moreItems : null
+    }
+
     return (
         <div className="items">
             {items}
-            { showMoreItems ? moreItems : null }
-            { moreItems.length > 0 ? <div onClick={handleClick} >{btnText}</div> : null }
+            <MoreItems showMoreItems={showMoreItems}/>
+            <ToggleBtn hasMoreItems={moreItems.length > 0} />
         </div>
     )
 }

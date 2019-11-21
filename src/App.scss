@@ -18,6 +18,7 @@
 
 // Items
 .items {
+    margin-bottom: 20px;
     .item {
         margin-bottom: 10px;
         .upper {
@@ -29,11 +30,13 @@
             }
 
         }
-
-
         .description {
             opacity: 0.5;
         }
+    }
+    .toggle-btn {
+        margin: 0px;
+        padding: 0px;
     }
 }
 
