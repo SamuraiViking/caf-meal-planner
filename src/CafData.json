@@ -2,7 +2,7 @@
     {
         "days": [
             {
-                "date": "2019-11-20",
+                "date": "2019-11-21",
                 "cafes": {
                     "261": {
                         "name": "Stav Hall",
@@ -24,7 +24,7 @@
                                             "note": "",
                                             "soup": 0,
                                             "items": [
-                                                "14145230",
+                                                "14145231",
                                                 "5291214",
                                                 "12223649",
                                                 "12223650",
@@ -43,7 +43,7 @@
                                             "note": "",
                                             "soup": 0,
                                             "items": [
-                                                "14145316"
+                                                "14145317"
                                             ]
                                         },
                                         {
@@ -54,7 +54,6 @@
                                             "note": "",
                                             "soup": 0,
                                             "items": [
-                                                "14145386",
                                                 "5297213",
                                                 "5297214",
                                                 "5297261",
@@ -72,7 +71,7 @@
                                             "note": "",
                                             "soup": 0,
                                             "items": [
-                                                "14145390"
+                                                "14145391"
                                             ]
                                         },
                                         {
@@ -83,9 +82,9 @@
                                             "note": "",
                                             "soup": 0,
                                             "items": [
-                                                "14145396",
-                                                "14145402",
-                                                "14145408",
+                                                "14145397",
+                                                "14145403",
+                                                "14145409",
                                                 "5317953",
                                                 "5317954",
                                                 "5317955",
@@ -109,8 +108,8 @@
                                             "note": "",
                                             "soup": 0,
                                             "items": [
-                                                "14201617",
-                                                "14201632"
+                                                "14210045",
+                                                "14210104"
                                             ]
                                         },
                                         {
@@ -121,8 +120,7 @@
                                             "note": "",
                                             "soup": 0,
                                             "items": [
-                                                "14145196",
-                                                "14145197"
+                                                "14145198"
                                             ]
                                         },
                                         {
@@ -133,9 +131,9 @@
                                             "note": "",
                                             "soup": 0,
                                             "items": [
-                                                "14201648",
-                                                "14145247",
-                                                "14145254",
+                                                "14145248",
+                                                "14145255",
+                                                "14207267",
                                                 "5290946",
                                                 "5290947",
                                                 "5290948",
@@ -170,10 +168,10 @@
                                             "note": "",
                                             "soup": 0,
                                             "items": [
-                                                "14145279",
-                                                "14145280",
-                                                "14145281",
-                                                "14145271",
+                                                "14145260",
+                                                "14145265",
+                                                "14145277",
+                                                "14145272",
                                                 "5295730",
                                                 "5295731",
                                                 "12944334",
@@ -191,10 +189,10 @@
                                             "note": "",
                                             "soup": 0,
                                             "items": [
-                                                "14145286",
-                                                "14145293",
-                                                "14145300",
-                                                "14145306",
+                                                "14145287",
+                                                "14145294",
+                                                "14145301",
+                                                "14207261",
                                                 "5290839",
                                                 "5290840",
                                                 "5290841",
@@ -216,11 +214,11 @@
                                             "note": "",
                                             "soup": 0,
                                             "items": [
-                                                "14145320",
-                                                "14145325",
-                                                "14145331",
-                                                "14145336",
-                                                "14145344",
+                                                "14145326",
+                                                "14145345",
+                                                "14145332",
+                                                "14145346",
+                                                "14145340",
                                                 "5291344",
                                                 "5291345",
                                                 "5291357",
@@ -249,10 +247,10 @@
                                             "note": "",
                                             "soup": 0,
                                             "items": [
-                                                "14145355",
-                                                "14145361",
-                                                "14145362",
-                                                "14195113",
+                                                "14145356",
+                                                "14176925",
+                                                "14145363",
+                                                "14195114",
                                                 "5295746",
                                                 "5295747",
                                                 "5295748",
@@ -318,9 +316,8 @@
                                             "note": "",
                                             "soup": 0,
                                             "items": [
-                                                "14145373",
-                                                "14145377",
-                                                "14145379"
+                                                "14145374",
+                                                "14145380"
                                             ]
                                         },
                                         {
@@ -369,10 +366,10 @@
                                             "note": "",
                                             "soup": 0,
                                             "items": [
-                                                "14201659",
-                                                "14201661",
-                                                "14201663",
-                                                "14201665"
+                                                "14210131",
+                                                "14210133",
+                                                "14210136",
+                                                "14210139"
                                             ]
                                         },
                                         {
@@ -428,8 +425,8 @@
                                             "note": "",
                                             "soup": 0,
                                             "items": [
-                                                "14201617",
-                                                "14201632"
+                                                "14210045",
+                                                "14210104"
                                             ]
                                         },
                                         {
@@ -440,9 +437,10 @@
                                             "note": "",
                                             "soup": 0,
                                             "items": [
-                                                "14176899",
-                                                "14176763",
-                                                "14176904"
+                                                "14145218",
+                                                "14149651",
+                                                "14149663",
+                                                "14195053"
                                             ]
                                         },
                                         {
@@ -453,9 +451,9 @@
                                             "note": "",
                                             "soup": 0,
                                             "items": [
-                                                "14201648",
-                                                "14145247",
-                                                "14145254",
+                                                "14145248",
+                                                "14145255",
+                                                "14207267",
                                                 "5290946",
                                                 "5290947",
                                                 "5290948",
@@ -490,10 +488,10 @@
                                             "note": "",
                                             "soup": 0,
                                             "items": [
-                                                "14145279",
-                                                "14145280",
-                                                "14145281",
-                                                "14145271",
+                                                "14145260",
+                                                "14145265",
+                                                "14145277",
+                                                "14145272",
                                                 "5295730",
                                                 "5295731",
                                                 "12944334",
@@ -511,10 +509,10 @@
                                             "note": "",
                                             "soup": 0,
                                             "items": [
-                                                "14145286",
-                                                "14145293",
-                                                "14145300",
-                                                "14145306",
+                                                "14145287",
+                                                "14145294",
+                                                "14145301",
+                                                "14207261",
                                                 "5290839",
                                                 "5290840",
                                                 "5290841",
@@ -536,10 +534,11 @@
                                             "note": "",
                                             "soup": 0,
                                             "items": [
-                                                "14145320",
-                                                "14145325",
-                                                "14145331",
-                                                "14145344",
+                                                "14145326",
+                                                "14145345",
+                                                "14145332",
+                                                "14145346",
+                                                "14145340",
                                                 "5291344",
                                                 "5291345",
                                                 "5291357",
@@ -568,10 +567,10 @@
                                             "note": "",
                                             "soup": 0,
                                             "items": [
-                                                "14145355",
-                                                "14145361",
-                                                "14145362",
-                                                "14195113",
+                                                "14145356",
+                                                "14176925",
+                                                "14145363",
+                                                "14195114",
                                                 "5295746",
                                                 "5295747",
                                                 "5295748",
@@ -637,9 +636,8 @@
                                             "note": "",
                                             "soup": 0,
                                             "items": [
-                                                "14145373",
-                                                "14145377",
-                                                "14145379"
+                                                "14145374",
+                                                "14145380"
                                             ]
                                         },
                                         {
@@ -688,10 +686,10 @@
                                             "note": "",
                                             "soup": 0,
                                             "items": [
-                                                "14201659",
-                                                "14201661",
-                                                "14201663",
-                                                "14201665"
+                                                "14210131",
+                                                "14210133",
+                                                "14210136",
+                                                "14210139"
                                             ]
                                         },
                                         {
@@ -18577,10 +18575,10 @@
                 "sub_station_order": "8",
                 "monotony": {}
             },
-            "14145196": {
-                "id": "14145196",
-                "label": "chicken and bacon chipotle ranch wrap",
-                "description": "crispy chicken, local lettuce, fresh tomato, smoked bacon and chipotle ranch dressing in a jalapeño flour tortilla",
+            "14145198": {
+                "id": "14145198",
+                "label": "byo chili fries",
+                "description": "all beef chili served on top of seasoned waffle fries and your choice of toppings.",
                 "raw_cooked": "0",
                 "is_rotating": "0",
                 "zero_entree": "0",
@@ -18610,27 +18608,15 @@
                 "sub_station_order": "",
                 "monotony": {}
             },
-            "14145197": {
-                "id": "14145197",
-                "label": "Corn Salsa",
-                "description": "Corn, Tomato, Jalapeno, Cilantro, Lime",
+            "14145218": {
+                "id": "14145218",
+                "label": "Herb Crusted Pork Loin",
+                "description": "",
                 "raw_cooked": "0",
                 "is_rotating": "0",
                 "zero_entree": "0",
-                "cor_icon": {
-                    "4": "Vegan",
-                    "9": "Made without Gluten-Containing Ingredients"
-                },
-                "ordered_cor_icon": {
-                    "0002-0004": {
-                        "id": "4",
-                        "label": "Vegan"
-                    },
-                    "0003-0009": {
-                        "id": "9",
-                        "label": "Made without Gluten-Containing Ingredients"
-                    }
-                },
+                "cor_icon": [],
+                "ordered_cor_icon": [],
                 "nextepid": "0",
                 "price": "",
                 "sizes": [],
@@ -18643,20 +18629,10 @@
                 "tier3": 0,
                 "tier": 1,
                 "rating": "",
-                "connector": "and",
-                "options": {
-                    "label": "sides",
-                    "type": "items",
-                    "values": [
-                        {
-                            "label": "tortilla chips",
-                            "description": "",
-                            "nutrition": {}
-                        }
-                    ]
-                },
-                "station_id": "1119",
-                "station": "<strong>@home lunch</strong>",
+                "connector": "",
+                "options": [],
+                "station_id": "1120",
+                "station": "<strong>@home dinner</strong>",
                 "nutrition_details": {},
                 "ingredients": "",
                 "nutrition_link": "",
@@ -18665,8 +18641,8 @@
                 "sub_station_order": "",
                 "monotony": {}
             },
-            "14145230": {
-                "id": "14145230",
+            "14145231": {
+                "id": "14145231",
                 "label": "build you own breakfast taco bowl",
                 "description": "",
                 "raw_cooked": "0",
@@ -18733,8 +18709,8 @@
                 "sub_station_order": "",
                 "monotony": {}
             },
-            "14145247": {
-                "id": "14145247",
+            "14145248": {
+                "id": "14145248",
                 "label": "chicken tinga",
                 "description": "",
                 "raw_cooked": "0",
@@ -18778,8 +18754,8 @@
                 "sub_station_order": "",
                 "monotony": {}
             },
-            "14145254": {
-                "id": "14145254",
+            "14145255": {
+                "id": "14145255",
                 "label": "taco beef",
                 "description": "",
                 "raw_cooked": "0",
@@ -18823,8 +18799,86 @@
                 "sub_station_order": "",
                 "monotony": {}
             },
-            "14145271": {
-                "id": "14145271",
+            "14145260": {
+                "id": "14145260",
+                "label": "classic pepperoni",
+                "description": "",
+                "raw_cooked": "0",
+                "is_rotating": "0",
+                "zero_entree": "0",
+                "cor_icon": [],
+                "ordered_cor_icon": [],
+                "nextepid": "0",
+                "price": "",
+                "sizes": [],
+                "nutrition": {
+                    "kcal": "",
+                    "well_being": "",
+                    "well_being_image": ""
+                },
+                "special": 1,
+                "tier3": 0,
+                "tier": 1,
+                "rating": "",
+                "connector": "",
+                "options": [],
+                "station_id": "1317",
+                "station": "<strong>@pizza</strong>",
+                "nutrition_details": {},
+                "ingredients": "",
+                "nutrition_link": "",
+                "sub_station_id": "",
+                "sub_station": "",
+                "sub_station_order": "",
+                "monotony": {}
+            },
+            "14145265": {
+                "id": "14145265",
+                "label": "five cheese",
+                "description": "plainview milk products cooperative (hastings co-op creamery)",
+                "raw_cooked": "0",
+                "is_rotating": "0",
+                "zero_entree": "0",
+                "cor_icon": {
+                    "1": "Vegetarian",
+                    "6": "Farm to Fork"
+                },
+                "ordered_cor_icon": {
+                    "0001-0001": {
+                        "id": "1",
+                        "label": "Vegetarian"
+                    },
+                    "0007-0006": {
+                        "id": "6",
+                        "label": "Farm to Fork"
+                    }
+                },
+                "nextepid": "0",
+                "price": "",
+                "sizes": [],
+                "nutrition": {
+                    "kcal": "",
+                    "well_being": "",
+                    "well_being_image": ""
+                },
+                "special": 1,
+                "tier3": 0,
+                "tier": 1,
+                "rating": "",
+                "connector": "",
+                "options": [],
+                "station_id": "1317",
+                "station": "<strong>@pizza</strong>",
+                "nutrition_details": {},
+                "ingredients": "",
+                "nutrition_link": "",
+                "sub_station_id": "",
+                "sub_station": "",
+                "sub_station_order": "",
+                "monotony": {}
+            },
+            "14145272": {
+                "id": "14145272",
                 "label": "chefs choice of roasted vegetable",
                 "description": "",
                 "raw_cooked": "0",
@@ -18868,88 +18922,10 @@
                 "sub_station_order": "",
                 "monotony": {}
             },
-            "14145279": {
-                "id": "14145279",
-                "label": "classic pepperoni on flatbread",
-                "description": "",
-                "raw_cooked": "0",
-                "is_rotating": "0",
-                "zero_entree": "0",
-                "cor_icon": [],
-                "ordered_cor_icon": [],
-                "nextepid": "0",
-                "price": "",
-                "sizes": [],
-                "nutrition": {
-                    "kcal": "",
-                    "well_being": "",
-                    "well_being_image": ""
-                },
-                "special": 1,
-                "tier3": 0,
-                "tier": 1,
-                "rating": "",
-                "connector": "",
-                "options": [],
-                "station_id": "1317",
-                "station": "<strong>@pizza</strong>",
-                "nutrition_details": {},
-                "ingredients": "",
-                "nutrition_link": "",
-                "sub_station_id": "",
-                "sub_station": "",
-                "sub_station_order": "",
-                "monotony": {}
-            },
-            "14145280": {
-                "id": "14145280",
-                "label": "five cheese on flatbread",
-                "description": "plainview milk products cooperative (hastings co-op creamery)",
-                "raw_cooked": "0",
-                "is_rotating": "0",
-                "zero_entree": "0",
-                "cor_icon": {
-                    "1": "Vegetarian",
-                    "6": "Farm to Fork"
-                },
-                "ordered_cor_icon": {
-                    "0001-0001": {
-                        "id": "1",
-                        "label": "Vegetarian"
-                    },
-                    "0007-0006": {
-                        "id": "6",
-                        "label": "Farm to Fork"
-                    }
-                },
-                "nextepid": "0",
-                "price": "",
-                "sizes": [],
-                "nutrition": {
-                    "kcal": "",
-                    "well_being": "",
-                    "well_being_image": ""
-                },
-                "special": 1,
-                "tier3": 0,
-                "tier": 1,
-                "rating": "",
-                "connector": "",
-                "options": [],
-                "station_id": "1317",
-                "station": "<strong>@pizza</strong>",
-                "nutrition_details": {},
-                "ingredients": "",
-                "nutrition_link": "",
-                "sub_station_id": "",
-                "sub_station": "",
-                "sub_station_order": "",
-                "monotony": {}
-            },
-            "14145281": {
-                "id": "14145281",
-                "label": "gouda cheese and red onion flat bread",
-                "description": "flatbread dough with a barbeque sauce, topped with gouda cheese and sliced red onions.",
+            "14145277": {
+                "id": "14145277",
+                "label": "gouda cheese and red onion pizza",
+                "description": "hand stretched dough with a barbeque sauce, topped with gouda cheese and sliced red onions",
                 "raw_cooked": "0",
                 "is_rotating": "0",
                 "zero_entree": "0",
@@ -18986,8 +18962,8 @@
                 "sub_station_order": "",
                 "monotony": {}
             },
-            "14145286": {
-                "id": "14145286",
+            "14145287": {
+                "id": "14145287",
                 "label": "semolina pasta",
                 "description": "",
                 "raw_cooked": "0",
@@ -19019,8 +18995,8 @@
                 "sub_station_order": "",
                 "monotony": {}
             },
-            "14145293": {
-                "id": "14145293",
+            "14145294": {
+                "id": "14145294",
                 "label": "creamy alfredo sauce",
                 "description": "",
                 "raw_cooked": "0",
@@ -19059,8 +19035,8 @@
                 "sub_station_order": "",
                 "monotony": {}
             },
-            "14145300": {
-                "id": "14145300",
+            "14145301": {
+                "id": "14145301",
                 "label": "marinara sauce",
                 "description": "",
                 "raw_cooked": "0",
@@ -19104,53 +19080,8 @@
                 "sub_station_order": "",
                 "monotony": {}
             },
-            "14145306": {
-                "id": "14145306",
-                "label": "spinach and olive tomato sauce",
-                "description": "",
-                "raw_cooked": "0",
-                "is_rotating": "0",
-                "zero_entree": "0",
-                "cor_icon": {
-                    "4": "Vegan",
-                    "9": "Made without Gluten-Containing Ingredients"
-                },
-                "ordered_cor_icon": {
-                    "0002-0004": {
-                        "id": "4",
-                        "label": "Vegan"
-                    },
-                    "0003-0009": {
-                        "id": "9",
-                        "label": "Made without Gluten-Containing Ingredients"
-                    }
-                },
-                "nextepid": "0",
-                "price": "",
-                "sizes": [],
-                "nutrition": {
-                    "kcal": "",
-                    "well_being": "",
-                    "well_being_image": ""
-                },
-                "special": 1,
-                "tier3": 0,
-                "tier": 1,
-                "rating": "",
-                "connector": "",
-                "options": [],
-                "station_id": "492",
-                "station": "<strong>@pasta</strong>",
-                "nutrition_details": {},
-                "ingredients": "",
-                "nutrition_link": "",
-                "sub_station_id": "",
-                "sub_station": "",
-                "sub_station_order": "",
-                "monotony": {}
-            },
-            "14145316": {
-                "id": "14145316",
+            "14145317": {
+                "id": "14145317",
                 "label": "waffles",
                 "description": "",
                 "raw_cooked": "0",
@@ -19192,48 +19123,8 @@
                 "sub_station_order": "",
                 "monotony": {}
             },
-            "14145320": {
-                "id": "14145320",
-                "label": "all natural beef burger",
-                "description": "",
-                "raw_cooked": "0",
-                "is_rotating": "0",
-                "zero_entree": "0",
-                "cor_icon": {
-                    "9": "Made without Gluten-Containing Ingredients"
-                },
-                "ordered_cor_icon": {
-                    "0003-0009": {
-                        "id": "9",
-                        "label": "Made without Gluten-Containing Ingredients"
-                    }
-                },
-                "nextepid": "0",
-                "price": "",
-                "sizes": [],
-                "nutrition": {
-                    "kcal": "",
-                    "well_being": "",
-                    "well_being_image": ""
-                },
-                "special": 1,
-                "tier3": 0,
-                "tier": 1,
-                "rating": "",
-                "connector": "",
-                "options": [],
-                "station_id": "1122",
-                "station": "<strong>@grill</strong>",
-                "nutrition_details": {},
-                "ingredients": "",
-                "nutrition_link": "",
-                "sub_station_id": "",
-                "sub_station": "",
-                "sub_station_order": "",
-                "monotony": {}
-            },
-            "14145325": {
-                "id": "14145325",
+            "14145326": {
+                "id": "14145326",
                 "label": "marinated chicken breast",
                 "description": "",
                 "raw_cooked": "0",
@@ -19272,8 +19163,8 @@
                 "sub_station_order": "",
                 "monotony": {}
             },
-            "14145331": {
-                "id": "14145331",
+            "14145332": {
+                "id": "14145332",
                 "label": "chipotle black bean burger",
                 "description": "",
                 "raw_cooked": "0",
@@ -19312,48 +19203,8 @@
                 "sub_station_order": "",
                 "monotony": {}
             },
-            "14145336": {
-                "id": "14145336",
-                "label": "all beef hot dog",
-                "description": "",
-                "raw_cooked": "0",
-                "is_rotating": "0",
-                "zero_entree": "0",
-                "cor_icon": {
-                    "9": "Made without Gluten-Containing Ingredients"
-                },
-                "ordered_cor_icon": {
-                    "0003-0009": {
-                        "id": "9",
-                        "label": "Made without Gluten-Containing Ingredients"
-                    }
-                },
-                "nextepid": "0",
-                "price": "",
-                "sizes": [],
-                "nutrition": {
-                    "kcal": "",
-                    "well_being": "",
-                    "well_being_image": ""
-                },
-                "special": 1,
-                "tier3": 0,
-                "tier": 1,
-                "rating": "",
-                "connector": "",
-                "options": [],
-                "station_id": "1122",
-                "station": "<strong>@grill</strong>",
-                "nutrition_details": {},
-                "ingredients": "",
-                "nutrition_link": "",
-                "sub_station_id": "",
-                "sub_station": "",
-                "sub_station_order": "",
-                "monotony": {}
-            },
-            "14145344": {
-                "id": "14145344",
+            "14145340": {
+                "id": "14145340",
                 "label": "fries",
                 "description": "",
                 "raw_cooked": "0",
@@ -19392,8 +19243,81 @@
                 "sub_station_order": "",
                 "monotony": {}
             },
-            "14145355": {
-                "id": "14145355",
+            "14145345": {
+                "id": "14145345",
+                "label": "all natural hamburger",
+                "description": "",
+                "raw_cooked": "0",
+                "is_rotating": "0",
+                "zero_entree": "0",
+                "cor_icon": {
+                    "9": "Made without Gluten-Containing Ingredients"
+                },
+                "ordered_cor_icon": {
+                    "0003-0009": {
+                        "id": "9",
+                        "label": "Made without Gluten-Containing Ingredients"
+                    }
+                },
+                "nextepid": "0",
+                "price": "",
+                "sizes": [],
+                "nutrition": {
+                    "kcal": "",
+                    "well_being": "",
+                    "well_being_image": ""
+                },
+                "special": 1,
+                "tier3": 0,
+                "tier": 1,
+                "rating": "",
+                "connector": "",
+                "options": [],
+                "station_id": "1122",
+                "station": "<strong>@grill</strong>",
+                "nutrition_details": {},
+                "ingredients": "",
+                "nutrition_link": "",
+                "sub_station_id": "",
+                "sub_station": "",
+                "sub_station_order": "",
+                "monotony": {}
+            },
+            "14145346": {
+                "id": "14145346",
+                "label": "all beef hot dog",
+                "description": "",
+                "raw_cooked": "0",
+                "is_rotating": "0",
+                "zero_entree": "0",
+                "cor_icon": [],
+                "ordered_cor_icon": [],
+                "nextepid": "0",
+                "price": "",
+                "sizes": [],
+                "nutrition": {
+                    "kcal": "",
+                    "well_being": "",
+                    "well_being_image": ""
+                },
+                "special": 1,
+                "tier3": 0,
+                "tier": 1,
+                "rating": "",
+                "connector": "",
+                "options": [],
+                "station_id": "1122",
+                "station": "<strong>@grill</strong>",
+                "nutrition_details": {},
+                "ingredients": "",
+                "nutrition_link": "",
+                "sub_station_id": "",
+                "sub_station": "",
+                "sub_station_order": "",
+                "monotony": {}
+            },
+            "14145356": {
+                "id": "14145356",
                 "label": "steamed white rice",
                 "description": "",
                 "raw_cooked": "0",
@@ -19437,41 +19361,8 @@
                 "sub_station_order": "",
                 "monotony": {}
             },
-            "14145361": {
-                "id": "14145361",
-                "label": "beef and vegetables in black bean sauce",
-                "description": "beef and vegetables in a tangy black bean sauce",
-                "raw_cooked": "0",
-                "is_rotating": "0",
-                "zero_entree": "0",
-                "cor_icon": [],
-                "ordered_cor_icon": [],
-                "nextepid": "0",
-                "price": "",
-                "sizes": [],
-                "nutrition": {
-                    "kcal": "",
-                    "well_being": "",
-                    "well_being_image": ""
-                },
-                "special": 1,
-                "tier3": 0,
-                "tier": 1,
-                "rating": "",
-                "connector": "",
-                "options": [],
-                "station_id": "1121",
-                "station": "<strong>@bowls</strong>",
-                "nutrition_details": {},
-                "ingredients": "",
-                "nutrition_link": "",
-                "sub_station_id": "",
-                "sub_station": "",
-                "sub_station_order": "",
-                "monotony": {}
-            },
-            "14145362": {
-                "id": "14145362",
+            "14145363": {
+                "id": "14145363",
                 "label": "pad see ew",
                 "description": "wok fried rice noodles with sweet soy sauce and broccoli",
                 "raw_cooked": "0",
@@ -19510,8 +19401,8 @@
                 "sub_station_order": "",
                 "monotony": {}
             },
-            "14145373": {
-                "id": "14145373",
+            "14145374": {
+                "id": "14145374",
                 "label": "steamed brown rice",
                 "description": "",
                 "raw_cooked": "0",
@@ -19555,110 +19446,25 @@
                 "sub_station_order": "",
                 "monotony": {}
             },
-            "14145377": {
-                "id": "14145377",
-                "label": "ratatouille",
-                "description": "peppers, eggplant, tomato, and summer squash cooked with balsamic vinegar and thyme",
+            "14145380": {
+                "id": "14145380",
+                "label": "baked sweet potato bar",
+                "description": "baked sweet potato, pepitas, sour cream, chopped jalapeño, green onions, shredded cheese",
                 "raw_cooked": "0",
                 "is_rotating": "0",
                 "zero_entree": "0",
                 "cor_icon": {
-                    "4": "Vegan",
+                    "1": "Vegetarian",
                     "9": "Made without Gluten-Containing Ingredients"
-                },
-                "ordered_cor_icon": {
-                    "0002-0004": {
-                        "id": "4",
-                        "label": "Vegan"
-                    },
-                    "0003-0009": {
-                        "id": "9",
-                        "label": "Made without Gluten-Containing Ingredients"
-                    }
-                },
-                "nextepid": "0",
-                "price": "",
-                "sizes": [],
-                "nutrition": {
-                    "kcal": "",
-                    "well_being": "",
-                    "well_being_image": ""
-                },
-                "special": 1,
-                "tier3": 0,
-                "tier": 1,
-                "rating": "",
-                "connector": "",
-                "options": [],
-                "station_id": "565",
-                "station": "<strong>@grains</strong>",
-                "nutrition_details": {},
-                "ingredients": "",
-                "nutrition_link": "",
-                "sub_station_id": "",
-                "sub_station": "",
-                "sub_station_order": "",
-                "monotony": {}
-            },
-            "14145379": {
-                "id": "14145379",
-                "label": "tuscan style white beans",
-                "description": "slow cooked cannellini beans with garlic, diced tomato, sage and finished with extra virgin olive oil and sherry vinegar.",
-                "raw_cooked": "0",
-                "is_rotating": "0",
-                "zero_entree": "0",
-                "cor_icon": {
-                    "4": "Vegan",
-                    "9": "Made without Gluten-Containing Ingredients"
-                },
-                "ordered_cor_icon": {
-                    "0002-0004": {
-                        "id": "4",
-                        "label": "Vegan"
-                    },
-                    "0003-0009": {
-                        "id": "9",
-                        "label": "Made without Gluten-Containing Ingredients"
-                    }
-                },
-                "nextepid": "0",
-                "price": "",
-                "sizes": [],
-                "nutrition": {
-                    "kcal": "",
-                    "well_being": "",
-                    "well_being_image": ""
-                },
-                "special": 1,
-                "tier3": 0,
-                "tier": 1,
-                "rating": "",
-                "connector": "",
-                "options": [],
-                "station_id": "565",
-                "station": "<strong>@grains</strong>",
-                "nutrition_details": {},
-                "ingredients": "",
-                "nutrition_link": "",
-                "sub_station_id": "",
-                "sub_station": "",
-                "sub_station_order": "",
-                "monotony": {}
-            },
-            "14145386": {
-                "id": "14145386",
-                "label": "french toast",
-                "description": "",
-                "raw_cooked": "0",
-                "is_rotating": "0",
-                "zero_entree": "0",
-                "cor_icon": {
-                    "1": "Vegetarian"
                 },
                 "ordered_cor_icon": {
                     "0001-0001": {
                         "id": "1",
                         "label": "Vegetarian"
+                    },
+                    "0003-0009": {
+                        "id": "9",
+                        "label": "Made without Gluten-Containing Ingredients"
                     }
                 },
                 "nextepid": "0",
@@ -19675,8 +19481,8 @@
                 "rating": "",
                 "connector": "",
                 "options": [],
-                "station_id": "10723",
-                "station": "<strong>@breakfast</strong>",
+                "station_id": "565",
+                "station": "<strong>@grains</strong>",
                 "nutrition_details": {},
                 "ingredients": "",
                 "nutrition_link": "",
@@ -19685,8 +19491,8 @@
                 "sub_station_order": "",
                 "monotony": {}
             },
-            "14145390": {
-                "id": "14145390",
+            "14145391": {
+                "id": "14145391",
                 "label": "old fashion oatmeal",
                 "description": "",
                 "raw_cooked": "0",
@@ -19733,8 +19539,8 @@
                 "sub_station_order": "",
                 "monotony": {}
             },
-            "14145396": {
-                "id": "14145396",
+            "14145397": {
+                "id": "14145397",
                 "label": "fresh fruit",
                 "description": "",
                 "raw_cooked": "0",
@@ -19778,8 +19584,8 @@
                 "sub_station_order": "",
                 "monotony": {}
             },
-            "14145402": {
-                "id": "14145402",
+            "14145403": {
+                "id": "14145403",
                 "label": "yogurt",
                 "description": "plainview milk products cooperative (hastings co-op creamery)",
                 "raw_cooked": "0",
@@ -19828,8 +19634,8 @@
                 "sub_station_order": "",
                 "monotony": {}
             },
-            "14145408": {
-                "id": "14145408",
+            "14145409": {
+                "id": "14145409",
                 "label": "cottage cheese",
                 "description": "",
                 "raw_cooked": "0",
@@ -19873,25 +19679,20 @@
                 "sub_station_order": "",
                 "monotony": {}
             },
-            "14176763": {
-                "id": "14176763",
-                "label": "steamed green beans",
+            "14149651": {
+                "id": "14149651",
+                "label": "sage stuffing",
                 "description": "",
                 "raw_cooked": "0",
                 "is_rotating": "0",
                 "zero_entree": "0",
                 "cor_icon": {
-                    "4": "Vegan",
-                    "9": "Made without Gluten-Containing Ingredients"
+                    "4": "Vegan"
                 },
                 "ordered_cor_icon": {
                     "0002-0004": {
                         "id": "4",
                         "label": "Vegan"
-                    },
-                    "0003-0009": {
-                        "id": "9",
-                        "label": "Made without Gluten-Containing Ingredients"
                     }
                 },
                 "nextepid": "0",
@@ -19918,10 +19719,10 @@
                 "sub_station_order": "",
                 "monotony": {}
             },
-            "14176899": {
-                "id": "14176899",
-                "label": "paprika roasted chicken",
-                "description": "paprika dusted chicken with peppery gravy",
+            "14149663": {
+                "id": "14149663",
+                "label": "gravy",
+                "description": "",
                 "raw_cooked": "0",
                 "is_rotating": "0",
                 "zero_entree": "0",
@@ -19951,9 +19752,42 @@
                 "sub_station_order": "",
                 "monotony": {}
             },
-            "14176904": {
-                "id": "14176904",
-                "label": "fingerling potatoes",
+            "14176925": {
+                "id": "14176925",
+                "label": "beef and vegetables in black bean sauce",
+                "description": "beef and vegetables in a tangy black bean sauce",
+                "raw_cooked": "0",
+                "is_rotating": "0",
+                "zero_entree": "0",
+                "cor_icon": [],
+                "ordered_cor_icon": [],
+                "nextepid": "0",
+                "price": "",
+                "sizes": [],
+                "nutrition": {
+                    "kcal": "",
+                    "well_being": "",
+                    "well_being_image": ""
+                },
+                "special": 1,
+                "tier3": 0,
+                "tier": 1,
+                "rating": "",
+                "connector": "",
+                "options": [],
+                "station_id": "1121",
+                "station": "<strong>@bowls</strong>",
+                "nutrition_details": {},
+                "ingredients": "",
+                "nutrition_link": "",
+                "sub_station_id": "",
+                "sub_station": "",
+                "sub_station_order": "",
+                "monotony": {}
+            },
+            "14195053": {
+                "id": "14195053",
+                "label": "steamed peas",
                 "description": "",
                 "raw_cooked": "0",
                 "is_rotating": "0",
@@ -19996,8 +19830,8 @@
                 "sub_station_order": "",
                 "monotony": {}
             },
-            "14195113": {
-                "id": "14195113",
+            "14195114": {
+                "id": "14195114",
                 "label": "sweet and sour soup",
                 "description": "",
                 "raw_cooked": "0",
@@ -20041,49 +19875,9 @@
                 "sub_station_order": "",
                 "monotony": {}
             },
-            "14201617": {
-                "id": "14201617",
-                "label": "cheesy potato with ham",
-                "description": "",
-                "raw_cooked": "0",
-                "is_rotating": "0",
-                "zero_entree": "0",
-                "cor_icon": {
-                    "9": "Made without Gluten-Containing Ingredients"
-                },
-                "ordered_cor_icon": {
-                    "0003-0009": {
-                        "id": "9",
-                        "label": "Made without Gluten-Containing Ingredients"
-                    }
-                },
-                "nextepid": "0",
-                "price": "",
-                "sizes": [],
-                "nutrition": {
-                    "kcal": "",
-                    "well_being": "",
-                    "well_being_image": ""
-                },
-                "special": 1,
-                "tier3": 0,
-                "tier": 1,
-                "rating": "",
-                "connector": "",
-                "options": [],
-                "station_id": "1117",
-                "station": "<strong>@soup</strong>",
-                "nutrition_details": {},
-                "ingredients": "",
-                "nutrition_link": "",
-                "sub_station_id": "",
-                "sub_station": "",
-                "sub_station_order": "",
-                "monotony": {}
-            },
-            "14201632": {
-                "id": "14201632",
-                "label": "vegetable egg roll soup",
+            "14207261": {
+                "id": "14207261",
+                "label": "spinach and olive tomato sauce",
                 "description": "",
                 "raw_cooked": "0",
                 "is_rotating": "0",
@@ -20116,8 +19910,8 @@
                 "rating": "",
                 "connector": "",
                 "options": [],
-                "station_id": "1117",
-                "station": "<strong>@soup</strong>",
+                "station_id": "492",
+                "station": "<strong>@pasta</strong>",
                 "nutrition_details": {},
                 "ingredients": "",
                 "nutrition_link": "",
@@ -20126,8 +19920,8 @@
                 "sub_station_order": "",
                 "monotony": {}
             },
-            "14201648": {
-                "id": "14201648",
+            "14207267": {
+                "id": "14207267",
                 "label": "taco and burrito bar",
                 "description": "",
                 "raw_cooked": "0",
@@ -20169,8 +19963,88 @@
                 "sub_station_order": "",
                 "monotony": {}
             },
-            "14201659": {
-                "id": "14201659",
+            "14210045": {
+                "id": "14210045",
+                "label": "cream of broccoli",
+                "description": "",
+                "raw_cooked": "0",
+                "is_rotating": "0",
+                "zero_entree": "0",
+                "cor_icon": {
+                    "1": "Vegetarian"
+                },
+                "ordered_cor_icon": {
+                    "0001-0001": {
+                        "id": "1",
+                        "label": "Vegetarian"
+                    }
+                },
+                "nextepid": "0",
+                "price": "",
+                "sizes": [],
+                "nutrition": {
+                    "kcal": "",
+                    "well_being": "",
+                    "well_being_image": ""
+                },
+                "special": 1,
+                "tier3": 0,
+                "tier": 1,
+                "rating": "",
+                "connector": "",
+                "options": [],
+                "station_id": "1117",
+                "station": "<strong>@soup</strong>",
+                "nutrition_details": {},
+                "ingredients": "",
+                "nutrition_link": "",
+                "sub_station_id": "",
+                "sub_station": "",
+                "sub_station_order": "",
+                "monotony": {}
+            },
+            "14210104": {
+                "id": "14210104",
+                "label": "white bean and turkey chili",
+                "description": "",
+                "raw_cooked": "0",
+                "is_rotating": "0",
+                "zero_entree": "0",
+                "cor_icon": {
+                    "9": "Made without Gluten-Containing Ingredients"
+                },
+                "ordered_cor_icon": {
+                    "0003-0009": {
+                        "id": "9",
+                        "label": "Made without Gluten-Containing Ingredients"
+                    }
+                },
+                "nextepid": "0",
+                "price": "",
+                "sizes": [],
+                "nutrition": {
+                    "kcal": "",
+                    "well_being": "",
+                    "well_being_image": ""
+                },
+                "special": 1,
+                "tier3": 0,
+                "tier": 1,
+                "rating": "",
+                "connector": "",
+                "options": [],
+                "station_id": "1117",
+                "station": "<strong>@soup</strong>",
+                "nutrition_details": {},
+                "ingredients": "",
+                "nutrition_link": "",
+                "sub_station_id": "",
+                "sub_station": "",
+                "sub_station_order": "",
+                "monotony": {}
+            },
+            "14210131": {
+                "id": "14210131",
                 "label": "vegetable pasta salad with champagne vinaigrette",
                 "description": "",
                 "raw_cooked": "0",
@@ -20209,8 +20083,8 @@
                 "sub_station_order": "",
                 "monotony": {}
             },
-            "14201661": {
-                "id": "14201661",
+            "14210133": {
+                "id": "14210133",
                 "label": "tomato and artichoke salad with herb vinaigrette",
                 "description": "",
                 "raw_cooked": "0",
@@ -20254,8 +20128,8 @@
                 "sub_station_order": "",
                 "monotony": {}
             },
-            "14201663": {
-                "id": "14201663",
+            "14210136": {
+                "id": "14210136",
                 "label": "cicci bean salad with champagne vinaigrette",
                 "description": "",
                 "raw_cooked": "0",
@@ -20299,8 +20173,8 @@
                 "sub_station_order": "",
                 "monotony": {}
             },
-            "14201665": {
-                "id": "14201665",
+            "14210139": {
+                "id": "14210139",
                 "label": "tropical quinoa",
                 "description": "organic quinoa with dried cheery, apricot, cranberry, mandarin oranges, coconut and champagne vinaigrette.",
                 "raw_cooked": "0",

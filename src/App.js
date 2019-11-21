@@ -6,7 +6,7 @@ import Header from './Header'
 
 const App = () => {
   const [meal, setMeal] = useState("breakfast")
-  const [diet, setDiet] = useState("any")
+  const [diets, setDiets] = useState([])
 
   const dayparts = CafData[0].days[0].cafes[261].dayparts[0]
   const breakfast = dayparts[0]
@@ -20,13 +20,6 @@ const App = () => {
     "dinner": dinner,
   }
 
-  const diets = {
-    "vegan": '4',
-    "vegitarian": '1',
-    "gluton free": '9',
-    "any": "any"
-  }
-
   return (
     <div className="App">
       <Header 
@@ -34,12 +27,12 @@ const App = () => {
         starttime={meals[meal].starttime}
         endtime={meals[meal].endtime}
         setMeal={setMeal}
-        setDiet={setDiet}
-        diet={diet}
+        setDiets={setDiets}
+        diets={diets}
       />
       <Menu
         stations={meals[meal].stations}
-        diet={diets[diet]}
+        diets={diets}
         date={date}
       />
     </div>

@@ -22,25 +22,33 @@ const Item = (props) => {
     )
 }
 
-const unfilteredItem = (item, filters) => {
-    if(filters.diet === "any") return true
-    if(filters.diet === "1") {
-        if("1" in item.cor_icon) return true
-        if("4" in item.cor_icon) return true
-    }
-    return filters.diet in item.cor_icon
+const unfilteredItem = (item, props)  => {
+    let diets = Object.assign([], props.diets)
+    if(diets.length === 0) return true
+
+    let itemHasDiets = true
+    diets.forEach((diet) => {
+        if(diet === 1) {
+            if(!(1 in item.cor_icon || 4 in item.cor_icon)) {
+                itemHasDiets = false
+            }
+        }
+        else if (!(diet in item.cor_icon)) {
+            itemHasDiets = false
+        }
+    })
+
+    return itemHasDiets
 }
 
 const Items = (props) => {
     const [showMoreItems, setShowMoreItems] = useState(false)
     const [btnText, setBtnText] = useState("show more")
-    let filters = { diet: props.diet }
     let items = []
     let moreItems = []
-
     props.itemIDs.forEach((itemID, i) => {
         let item = CafData[0].items[itemID];
-        if(unfilteredItem(item, filters)) {
+        if(unfilteredItem(item, props)) {
             let itemElem = (
                 <Item
                     key={i}

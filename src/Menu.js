@@ -7,7 +7,7 @@ const Menu = (props) => {
         <div>
             <Stations 
                 stations={props.stations} 
-                diet={props.diet}
+                diets={props.diets}
             />
         </div>
     );

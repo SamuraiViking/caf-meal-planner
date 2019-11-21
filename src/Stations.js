@@ -10,7 +10,7 @@ const Station = (props) => {
             <p className="label"><strong>{capitalizedLabel}</strong></p>
             <Items
                 itemIDs={props.itemIDs}
-                diet={props.diet}
+                diets={props.diets}
             />
         </div>
     )
@@ -24,7 +24,7 @@ const Stations = (props) => {
                 key={i}
                 label={station.label}
                 itemIDs={station.items}
-                diet={props.diet}
+                diets={props.diets}
             />
         ))
         :
