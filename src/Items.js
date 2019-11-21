@@ -8,13 +8,8 @@ const Item = (props) => {
     return (
         <div className="item">
             <div className="upper">
-                <div>
-                    <span>{props.label}</span>
-                </div>
-                <div className="right">
-                    <Icons icons={props.icons}/>
-                    {/* <Button size="sm">Eat!</Button> */}
-                </div>
+                <span>{props.label}</span>
+                <Icons icons={props.icons}/>
             </div>
             <div className="description">
                 <span>{props.description}</span>
