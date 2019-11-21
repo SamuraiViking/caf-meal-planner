@@ -6,13 +6,19 @@ import Button from 'react-bootstrap/Button';
 
 const Item = (props) => {
     return (
-        <div>
-            <span>{props.label}</span>
-            <Icons icons={props.icons}/>
-            <Button>Eat!</Button>
-            <br/>
-            <span>{props.description}</span>
-            <span className="icon">{props.vegiterian}</span>
+        <div className="item">
+            <div className="upper">
+                <div>
+                    <span>{props.label}</span>
+                </div>
+                <div className="right">
+                    <Icons icons={props.icons}/>
+                    <Button size="sm">Eat!</Button>
+                </div>
+            </div>
+            <div className="description">
+                <span>{props.description}</span>
+            </div>
         </div>
     )
 }
@@ -42,7 +48,7 @@ const Items = (props) => {
             )
         }
     })
-    return items
+    return <div className="items">{items}</div>
 }
 
 export default Items

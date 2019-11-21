@@ -3,7 +3,11 @@ import * as CafData from './cafData.json'
 
 
 const Icon = (props) => {
-    return <img src={props.image} alt="hoarse"/>
+    return (
+        <div className="icon">
+            <img src={props.image} alt="hoarse"/>
+        </div>
+    )
 }
 
 const Icons = (props) => {
@@ -14,7 +18,7 @@ const Icons = (props) => {
             <Icon key={i} image={image} />
         )
     })
-    return icons
+    return <div className="icons">{icons}</div>
 }
 
 export default Icons
