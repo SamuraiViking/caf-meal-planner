@@ -8,7 +8,7 @@ const Item = (props) => {
     return (
         <div className="item">
             <div className="upper">
-                <div>
+                <div className="label">
                     <span>{props.label}</span>
                 </div>
                 <div>

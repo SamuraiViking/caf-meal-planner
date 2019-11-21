@@ -6,8 +6,8 @@ const Station = (props) => {
     const capitalizedLabel = label.charAt(0).toUpperCase() + label.slice(1)
 
     return (
-        <div>
-            <p><strong>{capitalizedLabel}</strong></p>
+        <div className="station">
+            <p className="label"><strong>{capitalizedLabel}</strong></p>
             <Items
                 itemIDs={props.itemIDs}
             />
