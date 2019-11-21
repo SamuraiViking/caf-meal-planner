@@ -19,18 +19,16 @@
 // Items
 .items {
     margin-bottom: 20px;
+    font-size: 20px;
     .item {
         margin-bottom: 10px;
         .upper {
             display: flex;
-
-            .right {
-                display: flex;   
-            }
-
+            justify-content: space-between;
         }
         .description {
             opacity: 0.5;
+            font-size: 15px;
         }
     }
     .toggle-btn {
@@ -44,8 +42,6 @@
 // ICONS
 .icons {
     display: flex;
-    // margin-right: 20px;
-    margin-left: 10px;
     .icon {
         height: 20px;
         margin-right: 5px;
