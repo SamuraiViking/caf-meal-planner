@@ -14,6 +14,7 @@ const Header = (props) => {
                 <MealSelector 
                     setMeal={props.setMeal}
                     setDiet={props.setDiet}
+                    diet={props.diet}
                 />
             </div>
         </div>

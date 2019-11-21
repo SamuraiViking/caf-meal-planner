@@ -35,6 +35,7 @@ const App = () => {
         endtime={meals[meal].endtime}
         setMeal={setMeal}
         setDiet={setDiet}
+        diet={diet}
       />
       <Menu
         stations={meals[meal].stations}
