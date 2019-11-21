@@ -23,13 +23,18 @@ const Item = (props) => {
 }
 
 const unfilteredItem = (item, filters) => {
-    return true
+    if(filters.diet === "any") return true
+    if(filters.diet === "1") {
+        if("1" in item.cor_icon) return true
+        if("4" in item.cor_icon) return true
+    }
+    return filters.diet in item.cor_icon
 }
 
 const Items = (props) => {
     const [showMoreItems, setShowMoreItems] = useState(false)
     const [btnText, setBtnText] = useState("show more")
-    let filters = { tier: 1 }
+    let filters = { diet: props.diet }
     let items = []
     let moreItems = []
 
@@ -38,11 +43,10 @@ const Items = (props) => {
         if(unfilteredItem(item, filters)) {
             let itemElem = (
                 <Item
-                key={i}
-                tier={item.tier}
-                label={item.label}
-                icons={item.cor_icon}
-                description={item.description}
+                    key={i}
+                    label={item.label}
+                    icons={item.cor_icon}
+                    description={item.description}
                 />
             )
             Number(item.tier) === 1 ?

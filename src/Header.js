@@ -12,7 +12,8 @@ const Header = (props) => {
                     <p>{props.starttime} am - {props.endtime} pm </p>
                 </div>
                 <MealSelector 
-                    setSelectedMeal={props.setSelectedMeal}
+                    setMeal={props.setMeal}
+                    setDiet={props.setDiet}
                 />
             </div>
         </div>

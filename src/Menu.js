@@ -5,7 +5,10 @@ import './App.scss';
 const Menu = (props) => {
     return (
         <div>
-            <Stations stations={props.stations} />
+            <Stations 
+                stations={props.stations} 
+                diet={props.diet}
+            />
         </div>
     );
 }

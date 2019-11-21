@@ -6,13 +6,18 @@
     max-width: 400px;
 }
 
-.meal-selector {
+.selector {
+    width: 270px;
     margin: 0px auto;
-    width: 237px;
+
+}
+
+#meals {
+    margin-bottom: 10px;
 }
 
 .header {
-    padding: 20px;
+    padding: 20px 0px;
     text-align: center;
     // display: flex;
     justify-content: space-between;
@@ -47,15 +52,16 @@
 // ICONS
 .icons {
     display: flex;
-    .icon {
-        height: 20px;
-        margin-right: 5px;
-        width: 20px;
-    
-        img {
-            width: 100%;
-            height: auto;
-        }
+}
+
+.icon {
+    height: 20px;
+    margin-right: 5px;
+    width: 20px;
+
+    img {
+        width: 100%;
+        height: auto;
     }
 }
 
@@ -64,4 +70,12 @@
     p {
         font-size: 20px;
     }
+}
+
+.center {
+    margin: 0px auto;
+}
+
+.mb-10 {
+    margin-bottom: 7px;
 }

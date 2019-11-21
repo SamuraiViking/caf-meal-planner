@@ -5,7 +5,8 @@ import Menu from './Menu';
 import Header from './Header'
 
 const App = () => {
-  const [selectedMeal, setSelectedMeal] = useState("breakfast")
+  const [meal, setMeal] = useState("breakfast")
+  const [diet, setDiet] = useState("any")
 
   const dayparts = CafData[0].days[0].cafes[261].dayparts[0]
   const breakfast = dayparts[0]
@@ -19,16 +20,25 @@ const App = () => {
     "dinner": dinner,
   }
 
+  const diets = {
+    "vegan": '4',
+    "vegitarian": '1',
+    "gluton free": '9',
+    "any": "any"
+  }
+
   return (
     <div className="App">
       <Header 
-        label={meals[selectedMeal].label}
-        starttime={meals[selectedMeal].starttime}
-        endtime={meals[selectedMeal].endtime}
-        setSelectedMeal={setSelectedMeal}
+        label={meals[meal].label}
+        starttime={meals[meal].starttime}
+        endtime={meals[meal].endtime}
+        setMeal={setMeal}
+        setDiet={setDiet}
       />
       <Menu
-        stations={meals[selectedMeal].stations}
+        stations={meals[meal].stations}
+        diet={diets[diet]}
         date={date}
       />
     </div>
